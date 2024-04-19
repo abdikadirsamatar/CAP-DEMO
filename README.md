@@ -1,2 +1,2 @@
-# CAP-DEMO
- CAP-DEMO
+# Capstone-Demo-Project
+ Capstone-Demo-Project
